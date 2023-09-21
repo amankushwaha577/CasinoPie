@@ -8,11 +8,11 @@
 
 .logo {
   width: min(300px, 25vw);
-  transform: rotate(-5deg);
+  /* transform: rotate(-5deg); */
   position: fixed;
   top: 0;
   left: 0;
-  margin: 0.5em;
+  /* margin: 0.5em; */
   cursor: pointer;
   z-index: 1;
 }
