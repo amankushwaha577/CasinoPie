@@ -72,14 +72,10 @@ const Modal = () => {
           <div>
             <div>
               <a href="https://github.com/michaelkolesidis/cherry-charm">
-                © 2023 Michael Kolesidis.
+                © 2023 AMAN KUSHWAHA.
               </a>
             </div>
-            <div className="modal-about">
-              <a href="https://www.gnu.org/licenses/agpl-3.0.en.html">
-                Licensed under the GNU AGPL 3.0
-              </a>
-            </div>
+      
           </div>
         </div>
       </div>
