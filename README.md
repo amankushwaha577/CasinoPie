@@ -32,52 +32,24 @@ The game features a slot machine with three reels and four fruits, 🍒🍎🍌�
 
 **Please note that slot machines only consider pairs a match if they are in order from left to right.**
 
-## Instructions
 
-In order to run the project locally you need to start
-
-**1.** Install the project dependencies:
-
-```
-yarn
-```
-
-**2.** Start Vite:
-
-```
-yarn dev
-```
-
-## Screenshots
-
-### Desktop
-
-![Game](./screenshots/game.png)
-![Modal](./screenshots/modal.png)
-
-### Mobile
-
-![Game Mobile](./screenshots/game_mobile.png)
-![Modal Mobile](./screenshots/modal_mobile.png)
 
 ## Technologies
 
 The core technologies of _SlotPie_ are JavaScript, WebGL and WebAssembly (WASM). The following libraries and tools are used:
 
-| Name              | License | Description                                  |
-| ----------------- | :-----: | -------------------------------------------- |
-| React             |   MIT   | Component-based, front-end interface library |
-| Three.js          |   MIT   | 3D graphics API for the web, based on WebGL  |
-| React Three Fiber |   MIT   | A React renderer for Three.js                |
-| Drei              |   MIT   | Useful helpers for React Three Fiber         |
-| R3F-Perf          |   MIT   | Performance monitoring                       |
-| Zustand           |   MIT   | State management                             |
-| Vite              |   MIT   | Frontend development tooling                 |
-|                   |         |                                              |
+| Name               | Description                                  |
+| -----------------  | -------------------------------------------- |
+| React              | Component-based, front-end interface library |
+| Three.js         | 3D graphics API for the web, based on WebGL  |
+| React Three Fiber  | A React renderer for Three.js                |
+| Drei               | Useful helpers for React Three Fiber         |
+| R3F-Perf            | Performance monitoring                       |
+| Zustand            | State management                             |
+| Vite              | Frontend development tooling                 |
+|                  |                                              |
 
-## Assets
-
-All the assets used in _SlotPie_ (3D models, textures, images, sound effects, music etc.) are either using Creative Commons / Public Domain or they were created by me and can be freely used for commercial purposes. The main factor for choosing and using them was the need to deliver a prototype in a short time. Some (or most) of them should be changed to more appropriate/professional ones for commercial releases of the product.
+<br>
 
 ## Software Used
 
@@ -95,9 +67,7 @@ A non-exhaustive list of all the software that was used during the development o
 
 ## License
 
-<a href="https://www.gnu.org/licenses/agpl-3.0.html"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/AGPLv3_Logo.svg" height="100px" /></a>
+<a href="./public/images/logo.png"><img src="./public/images/logo.png" height="100px" /></a>
 
-Copyright (c) 2023 Michael Kolesidis<br>
-Licensed under the [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.html).
+Copyright (c) 2022 Aman Kushwaha<br>
 
-🍒
