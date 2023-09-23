@@ -1,4 +1,4 @@
-![Cherry Charm Logo](./public/images/logo.png)
+![SlotPie Logo](./public/images/logo.png)
 
 **An online 3D slot machine game.**
 
@@ -62,7 +62,7 @@ yarn dev
 
 ## Technologies
 
-The core technologies of _Cherry Charm_ are JavaScript, WebGL and WebAssembly (WASM). The following libraries and tools are used:
+The core technologies of _SlotPie_ are JavaScript, WebGL and WebAssembly (WASM). The following libraries and tools are used:
 
 | Name              | License | Description                                  |
 | ----------------- | :-----: | -------------------------------------------- |
@@ -77,11 +77,11 @@ The core technologies of _Cherry Charm_ are JavaScript, WebGL and WebAssembly (W
 
 ## Assets
 
-All the assets used in _Cherry Charm_ (3D models, textures, images, sound effects, music etc.) are either using Creative Commons / Public Domain or they were created by me and can be freely used for commercial purposes. The main factor for choosing and using them was the need to deliver a prototype in a short time. Some (or most) of them should be changed to more appropriate/professional ones for commercial releases of the product.
+All the assets used in _SlotPie_ (3D models, textures, images, sound effects, music etc.) are either using Creative Commons / Public Domain or they were created by me and can be freely used for commercial purposes. The main factor for choosing and using them was the need to deliver a prototype in a short time. Some (or most) of them should be changed to more appropriate/professional ones for commercial releases of the product.
 
 ## Software Used
 
-A non-exhaustive list of all the software that was used during the development of _Cherry Charm_.
+A non-exhaustive list of all the software that was used during the development of _SlotPie_.
 
 - Visual Studio Code
 - Blender

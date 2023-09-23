@@ -1,4 +1,4 @@
-# Cherry Charm Style Guide 🍒
+# SlotPie Style Guide 🍒
 
 ## Imports order
 
