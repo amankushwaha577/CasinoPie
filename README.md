@@ -60,9 +60,6 @@ A non-exhaustive list of all the software that was used during the development o
 - Adobe Illustrator
 - Krita
 - Inkscape
-- Google Chrome
-- Microsoft Edge
-- Mozilla Firefox
 - Figma
 
 ## License
