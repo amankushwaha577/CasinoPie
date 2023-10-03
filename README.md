@@ -1,7 +1,7 @@
 ![SlotPie Logo](./public/images/logo.png)
 
 **An online 3D slot machine game.**
-  
+   
 ## Information  
 
 The game features a slot machine with three reels and four fruits, 🍒🍎🍌🍋. Fruit combinations reward the players with 🪙.
