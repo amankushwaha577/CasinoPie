@@ -7,7 +7,7 @@
 The game features a slot machine with three reels and four fruits, 🍒🍎🍌🍋. Fruit combinations reward the players with 🪙.
 
 ## Features  
- 
+  
 - Fully responsive for desktop and mobile
 - Players can spin the slot machine either by clicking on the _Spin button_ or by pressing _Space_
 - Orbit controls: clicking and holding mouse while moving the cursors allows players to change 3D view
