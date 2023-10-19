@@ -5,7 +5,7 @@
 ## Information  
 
 The game features a slot machine with three reels and four fruits, 🍒🍎🍌🍋. Fruit combinations reward the players with 🪙.
-
+ 
 ## Features  
   
 - Fully responsive for desktop and mobile
